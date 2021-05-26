@@ -5,7 +5,7 @@ function FeatureBox(props) {
         <div>
             <div className='a-box'>
                 <div className='a-b-img'>
-                    <img src={props.image}/>
+                    <img src={props.image} alt='..'/>
                 </div>
                 <div className='s-b-text'>
                     <p> {props.para} </p>

@@ -17,7 +17,7 @@ function Navbar() {
 
     return (
         <nav className={nav ? 'nav active' : 'nav'}>
-            <a href='#' className='logo'>
+            <a href='#main' className='logo'>
                 <img src={logo} alt=''/>
             </a>
             <input type='checkbox' className='menu-btn' id='menu-btn'/>
@@ -29,7 +29,7 @@ function Navbar() {
                 <li><a href='#main'>Home</a></li>
                 <li><a href='#features'>Features</a></li>
                 <li><a href='#about'>About</a></li>
-                <li><a href='#'>Search/Post Job</a></li>
+                <li><a href='https://vistar-jobs.netlify.app/'>Search/Post Job</a></li>
             </ul>
         </nav>
     )
