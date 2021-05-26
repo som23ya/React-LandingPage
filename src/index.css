@@ -314,7 +314,7 @@ font-size: 2rem;
 }
 .s-b-text{
   width: 100%;
-  height: 100%;
+  height: 40%;
   background-color:#ffffff;
   display:flex;
   justify-content: center;
@@ -333,7 +333,8 @@ font-size: 2rem;
   margin-top: 25px;
   -webkit-line-clamp: 4;
   -webkit-box-orient: vertical;
-  overflow: hidden;
+  word-wrap: break-word;
+ overflow-y: scroll;
   text-overflow: ellipsis;
 }
 .s-b-text p:hover{
