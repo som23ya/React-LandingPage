@@ -584,3 +584,17 @@ border-radius: 20px;
               height:400px;
           }
       }
+
+
+.left-nav{
+  display: flex;
+  flex-direction: row;
+
+}
+.h3-nav{
+  padding-top: 7px;
+}
+
+.right-nav{
+  
+}
