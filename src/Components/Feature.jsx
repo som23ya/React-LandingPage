@@ -8,11 +8,10 @@ function Feature() {
     return (
         <div id='features'>
             <h1><span>Features</span></h1>
-            <div className='a-container'>
-                <FeatureBox image={featureimage} para='Jobs to individuals from lower income households with profile based on skills and knowledge.'/>
-                <FeatureBox image={featureimage1} para='One can filter jobs by site (on-site, remote, in office) and by type (full time, contract, part time, one time sevice).'/>
-                <FeatureBox image={featureimage2} para='Live ChatBot to ask various queries as well as Chat options with the service provider.'/>
-            </div>
+            <div className='a-container'> <FeatureBox image={featureimage} para='Open listing platform designed specifically for individuals from lower income households, made extremely easy-to-use with no login or authnetication needed.'/>
+                <FeatureBox image={featureimage1} para='Job seekers can filter and seek jobs according to their preferred choices- either by site (on-site, remote, in office) or by type (full time, contract, part time, one time sevice).'/>
+                <FeatureBox image={featureimage2} para='A Live customer service chat focused on successful communication between businesses and their appliers is provided so anyone can ask for more details regarding the jobs.'/>
+          </div>
         </div>
     )
 }
