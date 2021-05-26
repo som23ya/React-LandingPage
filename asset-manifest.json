@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/React-LandingPage/static/css/main.590cbe87.chunk.css",
-    "main.js": "/React-LandingPage/static/js/main.de1ce02d.chunk.js",
-    "main.js.map": "/React-LandingPage/static/js/main.de1ce02d.chunk.js.map",
+    "main.js": "/React-LandingPage/static/js/main.792b7229.chunk.js",
+    "main.js.map": "/React-LandingPage/static/js/main.792b7229.chunk.js.map",
     "runtime-main.js": "/React-LandingPage/static/js/runtime-main.9edfd341.js",
     "runtime-main.js.map": "/React-LandingPage/static/js/runtime-main.9edfd341.js.map",
     "static/js/2.71e1fff0.chunk.js": "/React-LandingPage/static/js/2.71e1fff0.chunk.js",
@@ -10,7 +10,7 @@
     "index.html": "/React-LandingPage/index.html",
     "static/css/main.590cbe87.chunk.css.map": "/React-LandingPage/static/css/main.590cbe87.chunk.css.map",
     "static/js/2.71e1fff0.chunk.js.LICENSE.txt": "/React-LandingPage/static/js/2.71e1fff0.chunk.js.LICENSE.txt",
-    "static/media/about.70982979.png": "/React-LandingPage/static/media/about.70982979.png",
+    "static/media/about.4c959305.png": "/React-LandingPage/static/media/about.4c959305.png",
     "static/media/index.css": "/React-LandingPage/static/media/background.39956767.jpg",
     "static/media/feature_1.34867be1.png": "/React-LandingPage/static/media/feature_1.34867be1.png",
     "static/media/feature_2.927be91c.png": "/React-LandingPage/static/media/feature_2.927be91c.png",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.9edfd341.js",
     "static/js/2.71e1fff0.chunk.js",
     "static/css/main.590cbe87.chunk.css",
-    "static/js/main.de1ce02d.chunk.js"
+    "static/js/main.792b7229.chunk.js"
   ]
 }
