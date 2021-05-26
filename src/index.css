@@ -331,10 +331,10 @@ font-size: 2rem;
   display: -webkit-box;
   max-width: 80%;
   margin-top: 25px;
-  -webkit-line-clamp: 4;
+  -webkit-line-clamp: 10;
   -webkit-box-orient: vertical;
   word-wrap: break-word;
- overflow-y: scroll;
+
   text-overflow: ellipsis;
 }
 .s-b-text p:hover{
